@@ -18,7 +18,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="propertize",
-    version="0.0.2",
+    version="0.0.3",
     author="Philip Dowie",
     author_email="philip@jnawk.nz",
     description="Unwrap custom properties",
